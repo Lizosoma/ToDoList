@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.67ef6d7c.css",
+    "main.js": "/static/js/main.afacefbe.js",
+    "static/media/Jost-Regular.woff": "/static/media/Jost-Regular.14d3cdf1b91c3d99512b.woff",
+    "static/media/Jost-Regular.woff2": "/static/media/Jost-Regular.aec9fa0a38b857c6e545.woff2",
+    "static/media/sort-by-creat.svg": "/static/media/sort-by-creat.fc1dc8ff362c549c2bd2ad7ed4113708.svg",
+    "static/media/delete.svg": "/static/media/delete.05a7cc4344df6cbf8c81955719679be6.svg",
+    "static/media/sort-by-comp.svg": "/static/media/sort-by-comp.ac59fff6990c72a4c4f994570a267f1a.svg",
+    "static/media/complete.svg": "/static/media/complete.4deec5fd4cc1d58f8284933da8bd2a39.svg",
+    "static/media/completed.svg": "/static/media/completed.dbf5881e912d874e4aa50967da0d3df5.svg",
+    "static/media/edit.svg": "/static/media/edit.e08343ecc58d45fb4d49e9cd2c7ac052.svg",
+    "index.html": "/index.html",
+    "static/media/save.svg": "/static/media/save.74c81426877c5fb17b9c2307d3429e68.svg",
+    "static/media/add.svg": "/static/media/add.e28d5be13b81ed9f0fc47abb3fc8ea70.svg",
+    "static/media/uncomplete.svg": "/static/media/uncomplete.d87af5a363ea760c6cb73527d2bba779.svg",
+    "static/media/all.svg": "/static/media/all.547247ced1cfa2ec12f98ee816b83f3a.svg",
+    "static/media/uncompleted.svg": "/static/media/uncompleted.8986e6a91644ec88dc6d2829cc22f5df.svg",
+    "main.67ef6d7c.css.map": "/static/css/main.67ef6d7c.css.map",
+    "main.afacefbe.js.map": "/static/js/main.afacefbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.67ef6d7c.css",
+    "static/js/main.afacefbe.js"
+  ]
+}
