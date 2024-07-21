@@ -16,3 +16,7 @@
 - React
 - CSS Modules
 - JavaScript (ES6+)
+
+## Деплой
+
+https://lizosoma.github.io/ToDoList/
