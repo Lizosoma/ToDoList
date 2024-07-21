@@ -1,0 +1,8 @@
+.todoList {
+  width: 100%;
+  max-width: 1000px;
+  background: #e8f1ff;
+  border-radius: 20px;
+  padding: 40px;
+  list-style: none;
+}

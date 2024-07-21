@@ -1,0 +1,13 @@
+.button {
+  padding: 24px;
+  background-color: #e8f1ff;
+  border: none;
+  cursor: pointer;
+  align-items: center;
+  line-height: 0;
+}
+
+.img {
+  width: 24px;
+  height: 24px;
+}

@@ -1,0 +1,48 @@
+.container {
+  position: relative;
+}
+
+.tooltip {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: max-content;
+  text-align: left;
+  background-color: #e8f1ff;
+  padding: 24px;
+  border-radius: 10px;
+  opacity: 0;
+  transform: translate3d(100%, 0, 0); /* Start hidden and moved to the right */
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+
+  to {
+    opacity: 1;
+    transform: translate3d(-89%, 0, 0);
+  }
+}
+
+@keyframes fadeOutLeft {
+  from {
+    opacity: 1;
+    transform: translate3d(-89%, 0, 0);
+  }
+
+  to {
+    opacity: 0;
+    transform: translate3d(100%, 0, 0);
+  }
+}
+
+.fadeInRight {
+  animation: fadeInRight 0.5s forwards;
+}
+
+.fadeOutLeft {
+  animation: fadeOutLeft 0.5s forwards;
+}

@@ -1,0 +1,30 @@
+.form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 30px;
+}
+
+.input {
+  width: 96%;
+  margin-bottom: 20px;
+  padding: 15px 20px;
+  border-radius: 10px;
+  border: 1px solid #819bcd;
+  font-size: 20px;
+  line-height: 28px;
+}
+
+.button {
+  width: 100%;
+  padding: 10px;
+  background-color: #819bcd;
+  border: none;
+  cursor: pointer;
+  border-radius: 10px;
+}
+
+.img {
+  width: 30px;
+  height: 30px;
+}
